@@ -91,6 +91,8 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+
+
 }
 
 .gtco-nav {
@@ -604,6 +606,7 @@ form label {
   float: left;
   width: 100%;
 }
+
 
 .feature-center {
   text-align: center;
@@ -1400,4 +1403,11 @@ form label {
   opacity: 0;
 }
 
+.tittle-line {
+    background-color: #F85A16;
+    display: inline-block;
+    height: 3px;
+    margin-bottom: 16px;
+    width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
