@@ -189,9 +189,8 @@ iframe {
   background: linear-gradient(bottom, #461F07, #F3A236);
   opacity: 0.65;
 }
-
 .wrap-login100 {
-  width: 390px;
+  width: 690px;
   background: transparent;
 }
 
@@ -362,12 +361,39 @@ iframe {
   z-index: 1;
 }
 
+.login100-form-btn {
+  font-family: Montserrat-Bold;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #e0e0e0;
+
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  background: #333333;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 25px;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+
+  position: relative;
+  z-index: 1;
+}
+
 
 
 .login100-form-btn:hover {
   opacity: 0.7;
 }
-
 
 /*------------------------------------------------------------------
 [ Button sign in with ]*/
